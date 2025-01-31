@@ -35,10 +35,9 @@ form.onsubmit = (event) => {
 
 
 function convertCurrency(amount, price, symbol) {
-  console.log(amount, price, symbol);
 
   total = amount * price;
-  description.textContent = `${symbol}1 = R$${price.toString().replace(".", ",")}`;
-  result.textContent = symbol + " " + total.toFixed(2).toString().replace(".", ",");
+  description.textContent = `${symbol}1 = R$${price.toLocaleString("pt-BR")}`;
+  result.textContent = symbol + " " + total.toLocaleString("pt-BR", {minimumFractionDigits: 2});
   footer.classList.add("show-result");
 }
