@@ -1,6 +1,6 @@
-# Refund Project
+# Currency Conversion Project
 
-This project is an **expense tracker** built with **HTML, CSS, and JavaScript**. It allows users to dynamically add, view, and remove expenses. This is a [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gad_source=1&gclid=CjwKCAiAtYy9BhBcEiwANWQQL_7PJhNk7vjUU2WS5edbdA0Q-JW-9ytiEHPkbCOhkU4Y2gnl6gjFZxoCVxgQAvD_BwE) study project.
+This project is an **currency conversion** built with **HTML, CSS, and JavaScript**. It allows users to convert the brazilian currency to USD, EUR or GBP. This is a [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gad_source=1&gclid=CjwKCAiAtYy9BhBcEiwANWQQL_7PJhNk7vjUU2WS5edbdA0Q-JW-9ytiEHPkbCOhkU4Y2gnl6gjFZxoCVxgQAvD_BwE) study project.
 
 ## 📸  
 
