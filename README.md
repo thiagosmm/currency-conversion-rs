@@ -4,7 +4,7 @@ This project is an **expense tracker** built with **HTML, CSS, and JavaScript**.
 
 ## 📸  
 
-![Project Screenshot](/currency-conversion/img/screenshot_currency_conversion.png)
+![Project Screenshot](img/screenshot_currency_conversion.png)
 
 ## 🚀 Stack  
 
